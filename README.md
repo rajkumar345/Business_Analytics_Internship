@@ -35,7 +35,7 @@ cd Level_1_Beginner/scripts
 python task1_data_overview.py
 python task2_gender_distribution.py
 
-📸 Outputs
+**### 📸 Outputs**
 
 gender_bar_chart.png
 gender_pie_chart.png
