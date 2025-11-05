@@ -1,0 +1,10 @@
+# .gitignore
+.venv/
+__pycache__/
+*.pyc
+*.xlsx
+*.csv
+*.docx
+*.pdf
+*.zip
+outputs/
